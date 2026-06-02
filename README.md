@@ -143,6 +143,7 @@ y[n] = x[n]
 
 2. SIMULATION WAVEFORM:
 
-
+<img width="1788" height="880" alt="Image" src="https://github.com/user-attachments/assets/09ecab8d-322f-4cac-a6df-ee0340bdcd82" />
 
 3. SIMULATION TCL CONSOLE:
+
