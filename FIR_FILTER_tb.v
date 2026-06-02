@@ -51,5 +51,6 @@ module tb_fir_filter;
         $monitor("Time=%0t | Input=%0d | Output=%0d",
                   $time, x_in, y_out);
     end
+    
 endmodule
 
