@@ -139,7 +139,7 @@ y[n] = x[n]
 
 1. RTL DESIGN:
 
-
+<img width="1693" height="929" alt="Image" src="https://github.com/user-attachments/assets/4093d361-2f0a-4ee6-ac44-6fbd4b74efd8" />
 
 2. SIMULATION WAVEFORM:
 
