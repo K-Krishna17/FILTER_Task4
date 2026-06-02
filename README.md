@@ -147,3 +147,5 @@ y[n] = x[n]
 
 3. SIMULATION TCL CONSOLE:
 
+<img width="1586" height="992" alt="Image" src="https://github.com/user-attachments/assets/d5003138-1ef2-4e8b-89b5-bf40b717ba95" />
+
