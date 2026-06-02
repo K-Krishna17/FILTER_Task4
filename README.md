@@ -34,7 +34,9 @@
 
 For an N-tap FIR filter:
 
-**y[n]=\sum_{k=0}^{N-1} h[k]x[n-k]**
+$$
+y[n] = \sum_{k=0}^{N-1} h[k]\,x[n-k]
+$$
 
 Where:
 
